@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25373541594",
+    "project_id": "kinetic-15184",
+    "storage_bucket": "kinetic-15184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25373541594:android:4b8dfa8d2958f56fee91e3",
+        "android_client_info": {
+          "package_name": "kroxon.kinetic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oVrnrhvEf53XJ2Dy3knkHCNnIL9ZDGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
