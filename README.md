@@ -1,24 +1,24 @@
 # Kinetic
 
-Kinetic to aplikacja do treningu interwałowego na Androida i iOS, wyposażona w funkcję Trenera AI. Trener motywuje użytkownika do wysiłku w wybranym przez niego stylu, głosie i języku.
+Kinetic is a high‑intensity interval training (HIIT) app for Android and iOS featuring an AI Coach that motivates you in a user‑selected style, voice, and language.
 
-## Funkcje
+## Features
 
-- **Trening interwałowy** – Twórz i zarządzaj własnymi zestawami ćwiczeń.
-- **Trener AI** – Motywuje do ćwiczeń, generując teksty motywacyjne w wybranym stylu.
-- **Wsparcie Gemini AI** – Generowanie tekstu motywacyjnego oraz mowy (Gemini 2.5 TTS).
-- **Personalizacja** – Wybierz styl, głos i język trenera.
-- **Działa na Androidzie i iOS**.
+- **Interval Workouts** – Create and manage custom workout sets (cycles, exercises, durations, rest periods).
+- **AI Coach** – Generates motivational coaching lines in a chosen style.
+- **Gemini AI Integration** – Text generation and Gemini 2.5 TTS voice synthesis.
+- **Personalization** – Pick coaching style, voice and language.
+- **Cross‑platform** – Runs on Android & iOS.
 
-## Pobieranie
+## Download
 
-Aplikację niedługo będzie można pobrać bezpośrednio ze sklepu Google Play lub App Store.
+The app will soon be available on Google Play and the App Store.
 
-## Zrzuty ekranu
+## Screenshots
 
-### Widok treningu
-![Widok treningu](assets/images/screenshot1.png)
+### Workout View
+![Workout view](assets/images/screenshot1.png)
 
-### Wybór głosu trenera
-![Wybór głosu](assets/images/screenshot2.png)
+### Voice Selection
+![Voice selection](assets/images/screenshot2.png)
 
