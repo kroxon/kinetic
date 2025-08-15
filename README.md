@@ -15,10 +15,5 @@ Kinetic is a high‑intensity interval training (HIIT) app for Android and iOS f
 The app will soon be available on Google Play and the App Store.
 
 ## Screenshots
-
-### Workout View
-![Workout view](assets/images/screenshot1.png)
-
-### Voice Selection
-![Voice selection](assets/images/screenshot2.png)
+<img width="1192" height="636" alt="image" src="https://github.com/user-attachments/assets/d8739e81-576e-4339-bab8-651fec2c472c" />
 
